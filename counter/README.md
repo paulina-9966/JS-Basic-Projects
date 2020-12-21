@@ -1,0 +1,1 @@
+bardzo prosty licznik
